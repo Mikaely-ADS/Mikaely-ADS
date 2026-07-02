@@ -1,3 +1,9 @@
+
+<p align="center">
+<img src="banner.png" width="100%">
+</p>
+
+
 <h1 align="center">Olá! Eu sou a Mikaely Alves. Tudo bem?  👋</h1>
 
 <p align="center">
