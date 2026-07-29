@@ -90,9 +90,11 @@ Essa experiência fortaleceu minhas habilidades em:
 
 ## Data Analytics
 
+- Data Visualization
 - Power BI
 - DAX
-- Power Query
+- Power Query (M)
+- Tableau
 - Excel
 - ETL
 - Modelagem Dimensional
@@ -106,10 +108,10 @@ Essa experiência fortaleceu minhas habilidades em:
 
 ## Backend
 
-- Java
-- Spring Boot
-- Git
-- GitHub
+- Python
+- Javascript (Node.js)
+- Java + Spring Boot
+- Versionamento com Git & GitHub
 
 ---
 
