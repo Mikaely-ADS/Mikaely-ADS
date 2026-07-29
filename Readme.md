@@ -82,6 +82,8 @@ Essa experiência fortaleceu minhas habilidades em:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=python&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -168,7 +170,7 @@ Projeto desenvolvido na Escola DNC utilizando metodologia CRISP-DM.
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-Previsão de conclusão: **2028**
+Previsão de conclusão: **12/2027**
 
 ---
 
@@ -199,7 +201,7 @@ Hoje aplico toda essa bagagem no universo de Dados, unindo conhecimento técnico
 
 💼 LinkedIn
 
-www.linkedin.com/in/mikaely-alves-745426218
+[www.linkedin.com/in/mikaely-alves-745426218](https://www.linkedin.com/in/mikaely-alves-745426218/)
 
 💻 GitHub
 
